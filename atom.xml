@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Inch Of Joy</title>
+  <title>一寸欢喜</title>
   
   
   <link href="/atom.xml" rel="self"/>
@@ -8,11 +8,6 @@
   <link href="http://inchofjoy.com/"/>
   <updated>2019-01-26T08:41:15.043Z</updated>
   <id>http://inchofjoy.com/</id>
-  
-  <author>
-    <name>一寸欢喜</name>
-    
-  </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
